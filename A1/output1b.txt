@@ -1,0 +1,5 @@
+The result of 10 is 10.
+The result of 19 is 19.
+The result of 7 is 7.
+The result of 3 is 3.
+The result of 100 is 100.

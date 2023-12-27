@@ -1,0 +1,5 @@
+10 is a even number.
+19 is a odd number.
+7 is a odd number.
+3 is a odd number.
+100 is a even number.
